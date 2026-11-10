@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+TestResults/
+node_modules/
+frontend/dist/
+.env
+appsettings.Development.json
+*.log
